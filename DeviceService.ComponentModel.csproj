@@ -10,6 +10,7 @@
     <Product>DeviceService.ComponentModel</Product>
     <AssemblyTitle>DeviceService.ComponentModel</AssemblyTitle>
     <AssemblyVersion>1.10.13.0</AssemblyVersion>
+	<GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
     <Configuration>Release</Configuration>
